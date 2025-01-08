@@ -1,0 +1,78 @@
+Global Statistics:
+  Number of Streams: 9
+  Total Data Received: 20971512 bytes (20.00 MB)
+  Total Packets Received: 10530
+  Data Rate: 25.22 MB/sec
+  Packet Rate: 13280.86 packets/sec
+
+Stream 1:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3290746.98
+  Packets per Second: 1652.32
+  Total Packets Received: 1170
+  Total Time: 0.71 seconds
+
+Stream 2:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3342531.92
+  Packets per Second: 1678.32
+  Total Packets Received: 1170
+  Total Time: 0.70 seconds
+
+Stream 3:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3034321.10
+  Packets per Second: 1523.56
+  Total Packets Received: 1170
+  Total Time: 0.77 seconds
+
+Stream 4:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3102821.93
+  Packets per Second: 1557.96
+  Total Packets Received: 1170
+  Total Time: 0.75 seconds
+
+Stream 5:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2968775.91
+  Packets per Second: 1490.65
+  Total Packets Received: 1170
+  Total Time: 0.78 seconds
+
+Stream 6:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2938901.04
+  Packets per Second: 1475.65
+  Total Packets Received: 1170
+  Total Time: 0.79 seconds
+
+Stream 7:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3034321.10
+  Packets per Second: 1523.56
+  Total Packets Received: 1170
+  Total Time: 0.77 seconds
+
+Stream 8:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2995417.41
+  Packets per Second: 1504.03
+  Total Packets Received: 1170
+  Total Time: 0.78 seconds
+
+Stream 9:
+  Total Data Received: 2330168 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2953763.38
+  Packets per Second: 1483.11
+  Total Packets Received: 1170
+  Total Time: 0.79 seconds

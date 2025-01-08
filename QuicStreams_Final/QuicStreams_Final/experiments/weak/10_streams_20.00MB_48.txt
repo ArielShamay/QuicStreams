@@ -1,0 +1,86 @@
+Global Statistics:
+  Number of Streams: 10
+  Total Data Received: 20971520 bytes (20.00 MB)
+  Total Packets Received: 10530
+  Data Rate: 25.58 MB/sec
+  Packet Rate: 13467.11 packets/sec
+
+Stream 1:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3106016.60
+  Packets per Second: 1559.56
+  Total Packets Received: 1053
+  Total Time: 0.68 seconds
+
+Stream 2:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2884464.27
+  Packets per Second: 1448.32
+  Total Packets Received: 1053
+  Total Time: 0.73 seconds
+
+Stream 3:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 3195537.13
+  Packets per Second: 1604.51
+  Total Packets Received: 1053
+  Total Time: 0.66 seconds
+
+Stream 4:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2837748.70
+  Packets per Second: 1424.86
+  Total Packets Received: 1053
+  Total Time: 0.74 seconds
+
+Stream 5:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2785122.30
+  Packets per Second: 1398.44
+  Total Packets Received: 1053
+  Total Time: 0.75 seconds
+
+Stream 6:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2785122.30
+  Packets per Second: 1398.44
+  Total Packets Received: 1053
+  Total Time: 0.75 seconds
+
+Stream 7:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2695858.52
+  Packets per Second: 1353.62
+  Total Packets Received: 1053
+  Total Time: 0.78 seconds
+
+Stream 8:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2699320.76
+  Packets per Second: 1355.35
+  Total Packets Received: 1053
+  Total Time: 0.78 seconds
+
+Stream 9:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2702784.44
+  Packets per Second: 1357.09
+  Total Packets Received: 1053
+  Total Time: 0.78 seconds
+
+Stream 10:
+  Total Data Received: 2097152 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 2682105.28
+  Packets per Second: 1346.71
+  Total Packets Received: 1053
+  Total Time: 0.78 seconds

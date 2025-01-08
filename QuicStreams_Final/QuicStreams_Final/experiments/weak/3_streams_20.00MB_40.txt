@@ -1,0 +1,30 @@
+Global Statistics:
+  Number of Streams: 3
+  Total Data Received: 20971518 bytes (20.00 MB)
+  Total Packets Received: 10530
+  Data Rate: 24.79 MB/sec
+  Packet Rate: 13051.02 packets/sec
+
+Stream 1:
+  Total Data Received: 6990506 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 8906341.11
+  Packets per Second: 4471.96
+  Total Packets Received: 3510
+  Total Time: 0.78 seconds
+
+Stream 2:
+  Total Data Received: 6990506 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 8906341.11
+  Packets per Second: 4471.96
+  Total Packets Received: 3510
+  Total Time: 0.78 seconds
+
+Stream 3:
+  Total Data Received: 6990506 bytes
+  Data Size: 2000 bytes
+  Bytes per Second: 8664127.13
+  Packets per Second: 4350.34
+  Total Packets Received: 3510
+  Total Time: 0.81 seconds
